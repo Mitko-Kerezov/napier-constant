@@ -69,4 +69,4 @@ if __name__ == '__main__':
         print(message)
     if output_file_name:
         with open(output_file_name, 'a') as file:
-            file.write('%s\n' % time)
+            file.write('%s\n' % unicode(str(time), "utf-8"))
