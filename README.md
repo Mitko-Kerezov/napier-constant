@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 120%">
+<h1 align="center">
 <br><br><br><br><br><br>
   <b>Проект</b><br>
   по Разпределени Софтуерни Архитектури
@@ -11,8 +11,8 @@
   Ръководител:<br>
   ас. Христо Христов<br>
 
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+</h1>
+<br><br><br><br><br><br><br><br><br><br>
 <p align="right">
     Проверил:......<br>
     (ас. Христо Христов)
